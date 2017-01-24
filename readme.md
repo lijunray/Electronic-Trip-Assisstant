@@ -20,6 +20,8 @@ Select contact people:
 
 Select date and time:
 
+![](screenshots/3.png)
+
 ![](screenshots/5.png)
 
 Finish filling:
