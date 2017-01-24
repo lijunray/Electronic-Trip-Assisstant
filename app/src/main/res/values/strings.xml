@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">E T A</string>
+    <string name="slogan">Your Best Trip Manager Ever.</string>
+
+    <string name="app_name">ETA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="view_trip_button">View All Trips</string>
+    <string name="create_trip_button">Create A Trip</string>
+    <string name="finish_create_button">Finish</string>
+    <string name="cancel_create_button">Cancel</string>
+    <string name="Back_button">Back</string>
+
+
+    <string name="trip_name">Name*</string>
+    <string name="trip_location">Location*</string>
+    <string name="trip_type">Type*</string>
+    <string name="trip_friends">Friends*</string>
+    <string name="select_frinds">Select friends from contacts</string>
+    <string name="trip_start_time">Start Time*</string>
+    <string name="trip_end_time">End Time*</string>
+    <string name="select_start_time">Select starting time</string>
+    <string name="select_end_time">Select ending time</string>
+    <string name="trip_description">Description</string>
+    <string name="no_contacts">No Contacts Found</string>
+
+    <string name="search_match_other">Matches Other Field</string>
+    <string name="title_activity_contacts_fragment">ContactsFragment</string>
+
+    <string name="button_search_location">Search</string>
+
+    <string name="no_trips">No Trips</string>
+
+    <string name="location">location</string>
+    <string name="start_time">start time</string>
+    <string name="end_time">end time</string>
+    <string name="activate_trip">start trip</string>
+    <string name="finish_trip">finish trip</string>
+    <string name="delete_trip">delete trip</string>
+    <string name="trip_status">Status</string>
+    <string name="arrive">comfirm arrival</string>
+    <string name="has_arrived">has arrived</string>
+
+    <string name="past_trip">past trip</string>
+    <string name="current_trip">current trip</string>
+    <string name="future_trip">future trip</string>
+
+    <string name="distance_left">Distance Left</string>
+    <string name="time_left">Time Left</string>
+
+    <string name="count">Trips Count: </string>
+
+
+</resources>

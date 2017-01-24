@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#222222</color>
+    <color name="primary_dark">#333333</color>
+
+    <color name="cancel">#e74529</color>
+    <color name="submit">#d3d3d3</color>
+    <color name="press_submit">#878787</color>
+    <color name="press_cancel">#ab321d</color>
+    <color name="create_background">#6c7079</color>
+    <color name="text_white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="item_border">#666666</color>
+    <color name="item_selected">#333333</color>
+
+    <color name="view_trip_card_background">#406c7079</color>
+
+    <color name="hint_warn">#990033</color>
+
+    <color name="active_trip">#6699CC</color>
+    <color name="finish_trip">#333366</color>
+</resources>
